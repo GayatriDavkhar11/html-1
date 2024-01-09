@@ -1,0 +1,41 @@
+/*.topnav{
+    overflow:hidden;
+    background-color:aqua;
+}
+.topnav{
+    float:left;
+    display:inline-block;
+    color:black;
+    text-align:center;
+    padding:14px 16px;
+    text-decoration:none;
+    font-size:17px;
+}
+.home{
+    margin-bottom: -20px;
+
+}*/
+.gift{
+    position:absolute; 
+    font-size:40px; 
+    top:80%; 
+    margin-left:5%; 
+    color:rgb(74, 35, 215); 
+    font-style:italic;
+
+}
+.gift2{
+    position:absolute;
+     font-size:30px; 
+     top:140%; 
+     margin-left:25%;
+      color:rgb(226, 25, 156); 
+    font-style:initial;
+}
+.one{
+    display: inline-block;
+     border: 2px solid;
+     margin-right: 30px; 
+     margin-left:10px;
+    background-color: aqua;
+}
